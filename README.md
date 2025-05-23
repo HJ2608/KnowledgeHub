@@ -10,7 +10,7 @@ A full-stack knowledge management app where users can create, edit, and summariz
 - **Backend**: Node.js + Express
 - **Auth**: JWT (admin/user)
 - **Database**: MongoDB (Docker)
-- **LLM Integration**: OpenAI GPT-3.5 (or mocked)
+- **LLM Integration**: GEMINI
 - **Deployment**: Docker Compose
 
 ---
